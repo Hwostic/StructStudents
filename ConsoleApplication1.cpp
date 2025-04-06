@@ -147,6 +147,7 @@ int main()
     printStudentList(list);
     findAndDeleteStudentLastName(list, "Ivano");
     printStudentList(list);
- 
+    printStudentList(list);
+    printStudentList(list);
 }
 
