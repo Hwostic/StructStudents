@@ -149,6 +149,6 @@ int main()
     printStudentList(list);
     printStudentList(list);
     printStudentList(list);
-    cout << "ляляляляля";
+    cout << "ляляляля";
 }
 
